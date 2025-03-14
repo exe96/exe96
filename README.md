@@ -1,19 +1,29 @@
-<h1>Hello, I'm Exequiel 👋</h1>
+## Hello, I'm Exequiel 👋 
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me </h2>
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img  align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<p>I am a web developer, currently focusing on creating or collaborating on projects to add to my portfolio.
+I have a <a href="https://eadweb.tech/home">website</a> in Spanish with projects.</p>
 
+
+
+
+
+<p><strong> How to reach me🤝</strong></p>
+
+| [Linkedin](https://www.linkedin.com/in/exequiel-acosta-5b7a18201)|  [Email](mailto:exeacosta@hotmail.com)|
+|---|---|
 <h3>  <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills </h3> 
 
 <h3>🌐 Frond End</h3>
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://github.com/github/explore/blob/main/topics/html/html.png" width="28">](https://https://developer.mozilla.org/es/docs/Web/HTML)  | [<img src="https://github.com/github/explore/blob/main/topics/css/css.png" alt="cpp logo" width="24">](https://https://developer.mozilla.org/es/docs/Web/CSS)  |  [<img src="https://github.com/github/explore/blob/main/topics/sass/sass.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://github.com/github/explore/blob/main/topics/figma/figma.png" alt="python logo" width="28">](https://www.python.org/) |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="html logo" width="28">](https://developer.mozilla.org/es/docs/Web/HTML)  | [<img src="https://github.com/github/explore/blob/main/topics/css/css.png" alt="css logo" width="24">](https://developer.mozilla.org/es/docs/Web/CSS)  |  [<img src="https://github.com/github/explore/blob/main/topics/sass/sass.png" alt="sass logo" width="28">](https://sass-lang.com/) |  [<img src="https://github.com/github/explore/blob/main/topics/figma/figma.png" alt="figma logo" width="28">](https://www.figma.com/) |
 |---|---|---|---|---|
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://github.com/github/explore/blob/main/topics/react/react.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://github.com/github/explore/blob/main/topics/react/react.png" alt="react logo" width="24">](https://es.react.dev/)|
 |---|---|
 
 
@@ -21,14 +31,14 @@
 
 - Know/Using
 
-| [<img src="https://github.com/github/explore/blob/main/topics/php/php.png" alt="v logo" width="36">](https://vlang.io/)  | [<img src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" alt="cpp logo" width="48">](https://isocpp.org/)  |
+| [<img src="https://github.com/github/explore/blob/main/topics/php/php.png" alt="php logo" width="36">](https://www.php.net/)  | [<img src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png" alt="laravel logo" width="38">](https://laravel.com/)  | [<img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" alt="mysql logo" width="48">](https://www.mysql.com/)  |
 |---|---|---|
 
-### Tools 🛠️
+### 🛠️ Tools 
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://github.com/github/explore/blob/main/topics/github/github.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://github.com/github/explore/blob/main/topics/bash/bash.png" alt="gimp logo" width="42"> ](https://isocpp.org/) |
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://github.com/github/explore/blob/main/topics/github/github.png" alt="github logo" width="24">](https://github.com/) | [<img src="https://github.com/github/explore/blob/main/topics/bash/bash.png" alt="bash logo" width="42"> ](https://www.hostinger.com/es/tutoriales/bash-script-linux) |
 |---|---|---|---|
 
 - Learning
