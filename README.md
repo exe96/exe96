@@ -2,7 +2,7 @@
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me </h2>
 <img  align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 <p>I am a web developer, currently focusing on creating or collaborating on projects to add to my portfolio.
-I have a <a href="https://eadweb.tech/home">website</a> in Spanish with projects.</p>
+
 
 
 
