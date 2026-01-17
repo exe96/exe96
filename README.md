@@ -4,8 +4,9 @@
 <p>I am a web developer, currently focusing on creating or collaborating on projects to add to my portfolio.
 
 
+https://exe96.github.io/Weather-app-intermediate/
 
-
+https://exe96.github.io/Empresa-Avancy/
 
 
 <p><strong> How to reach me🤝</strong></p>
