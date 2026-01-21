@@ -3,10 +3,14 @@
 <img  align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 <p>I am a web developer, currently focusing on creating or collaborating on projects to add to my portfolio.
 
+[My Portfolio](https://exe96.github.io/Portfolio/)
 
-https://exe96.github.io/Weather-app-intermediate/
 
-https://exe96.github.io/Empresa-Avancy/
+[Weather App](https://exe96.github.io/Weather-app-intermediate/)
+
+[Avancy Software](https://exe96.github.io/Empresa-Avancy/)
+
+
 
 
 <p><strong> How to reach me🤝</strong></p>
